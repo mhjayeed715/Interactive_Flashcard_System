@@ -1,42 +1,38 @@
-# Interactive Flashcard System
+# Interactive Flashcard System  
 
-The **Interactive Flashcard System** is a console-based learning application developed in **C++**. It allows users to create, manage, and practice flashcards for effective information retention. The system provides several features like categorization, progress tracking, and case-insensitive searching to enhance the user experience.
+The **Interactive Flashcard System** is a console-based learning application developed in **C++**. It allows users to create, manage, and practice flashcards for effective information retention. The system provides several features like categorization, progress tracking, and case-insensitive searching to enhance the user experience.  
 
+## Features  
+1. **Add Flashcard**:  
+   - Create flashcards with a `Category`, `Question`, and `Answer`.  
+   - Automatically assigns a unique ID to each flashcard.  
 
+2. **Update Flashcard**:  
+   - Modify the `Category`, `Question`, or `Answer` of an existing flashcard by ID.  
 
-## Features
-1. **Add Flashcard**:
-   - Create flashcards with a `Category`, `Question`, and `Answer`.
-   - Automatically assigns a unique ID to each flashcard.
+3. **Delete Flashcard**:  
+   - Remove flashcards using their ID.  
 
-2. **Update Flashcard**:
-   - Modify the `Category`, `Question`, or `Answer` of an existing flashcard by ID.
+4. **Show All Flashcards**:  
+   - View all saved flashcards along with their details (`ID`, `Category`, `Question`, `Answer`, `Progress`).  
 
-3. **Delete Flashcard**:
-   - Remove flashcards using their ID.
+5. **Practice Flashcards**:  
+   - Select a category and practice flashcards from it.  
+   - Tracks progress for correct answers and displays the correct answer for wrong attempts.  
 
-4. **Show All Flashcards**:
-   - View all saved flashcards along with their details (`ID`, `Category`, `Question`, `Answer`, `Progress`).
+6. **Search Flashcards**:  
+   - Find flashcards by keywords in their `Category`, `Question`, or `Answer`.  
 
-5. **Practice Flashcards**:
-   - Select a category and practice flashcards from it.
-   - Tracks progress for correct answers and displays the correct answer for wrong attempts.
+7. **Show Categories**:  
+   - Display all categories along with the number of flashcards in each.  
 
-6. **Search Flashcards**:
-   - Find flashcards by keywords in their `Category` or `Question`.
+8. **Persistent Storage**:  
+   - Flashcards are saved in a file (`Flashcards.data`) to retain data across sessions.  
 
-7. **Filter Flashcards**:
-   - Display all flashcards belonging to a specific category.
-
-8. **Persistent Storage**:
-   - Flashcards are saved in a file (`Flashcards.data`) to retain data across sessions.
-
-
-
-## Technologies Used
-- **Programming Language**: C++
-- **Features**:
-  - File handling for persistent storage.
-  - Dynamic memory allocation.
-  - Case-insensitive search and category filtering.
-
+## Technologies Used  
+- **Programming Language**: C++  
+- **Features**:  
+  - File handling for persistent storage.  
+  - Dynamic memory allocation.  
+  - Case-insensitive search and category filtering.  
+  - ANSI escape codes for terminal color formatting.  
