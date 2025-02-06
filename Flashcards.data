@@ -1,0 +1,501 @@
+1
+Digital Logic Design
+Output of AND gate with inputs 1 and 1?
+1
+0
+2
+Digital Logic Design
+Number of inputs for NOT gate?
+1
+0
+3
+Digital Logic Design
+Binary equivalent of decimal 5?
+101
+0
+4
+Digital Logic Design
+Which gate gives output 1 when inputs differ?
+XOR
+0
+5
+Digital Logic Design
+Basic memory unit in digital systems?
+Flip-flop
+0
+6
+Digital Logic Design
+Number system used in computers?
+Binary
+0
+7
+Digital Logic Design
+Universal gate example?
+NAND
+0
+8
+Digital Logic Design
+Full form of LED?
+Light Emitting Diode
+0
+9
+Digital Logic Design
+Base of hexadecimal number system?
+16
+0
+10
+Digital Logic Design
+3-input AND gate output if one input is 0?
+0
+0
+11
+Digital Logic Design
+Component that stores 1 bit?
+Flip-flop
+0
+12
+Digital Logic Design
+What does CPU stand for?
+Central Processing Unit
+0
+13
+Digital Logic Design
+Parity bit detects?
+Errors
+0
+14
+Digital Logic Design
+Number of bits in a byte?
+8
+0
+15
+Digital Logic Design
+Logic gate opposite of AND?
+NAND
+0
+16
+Digital Logic Design
+Base 10 number system?
+Decimal
+0
+17
+Digital Logic Design
+Full form of ASCII?
+American Standard Code
+0
+18
+Digital Logic Design
+Circuit simplification method?
+Karnaugh Map
+0
+19
+Digital Logic Design
+Clock signal purpose?
+Synchronization
+0
+20
+Digital Logic Design
+Voltage range for logic 1?
+3-5V
+0
+21
+System Analysis
+First SDLC phase?
+Requirements
+0
+22
+System Analysis
+UML diagram for workflows?
+Activity
+0
+23
+System Analysis
+Data storage diagram?
+ERD
+0
+24
+System Analysis
+Testing individual components?
+Unit Testing
+0
+25
+System Analysis
+Agile framework name?
+Scrum
+0
+26
+System Analysis
+Risk analysis method?
+SWOT
+0
+27
+System Analysis
+Full form of DFD?
+Data Flow Diagram
+0
+28
+System Analysis
+Final SDLC phase?
+Maintenance
+0
+29
+System Analysis
+User interface design tool?
+Prototype
+0
+30
+System Analysis
+Data validation purpose?
+Accuracy
+0
+31
+System Analysis
+Version control system?
+Git
+0
+32
+System Analysis
+Normalization reduces?
+Redundancy
+0
+33
+System Analysis
+Black-box testing focuses?
+Functionality
+0
+34
+System Analysis
+White-box testing alias?
+Structural
+0
+35
+System Analysis
+Cloud service model?
+IaaS
+0
+36
+System Analysis
+Software bug type?
+Syntax Error
+0
+37
+System Analysis
+Waterfall model phase count?
+6
+0
+38
+System Analysis
+Use case participants?
+Actors
+0
+39
+System Analysis
+Database query language?
+SQL
+0
+40
+System Analysis
+Debugging tool?
+Breakpoint
+0
+41
+Numerical Method
+Approximate π value?
+3.1416
+0
+42
+Numerical Method
+Root finding method?
+Bisection
+0
+43
+Numerical Method
+Linear equations solver?
+Gauss
+0
+44
+Numerical Method
+Derivative approximation?
+Finite Difference
+0
+45
+Numerical Method
+Error in calculations?
+Round-off
+0
+46
+Numerical Method
+Curve fitting method?
+Regression
+0
+47
+Numerical Method
+ODE solving method?
+Euler
+0
+48
+Numerical Method
+Matrix decomposition?
+LU
+0
+49
+Numerical Method
+Random number method?
+Monte Carlo
+0
+50
+Numerical Method
+Polynomial interpolation?
+Lagrange
+0
+51
+Numerical Method
+Integration rule?
+Trapezoidal
+0
+52
+Numerical Method
+Eigenvalue method?
+Power
+0
+53
+Numerical Method
+Approximate √2?
+1.4142
+0
+54
+Numerical Method
+Equation solving start?
+Initial Guess
+0
+55
+Numerical Method
+Floating point standard?
+IEEE 754
+0
+56
+Numerical Method
+Partial derivatives use?
+Gradient
+0
+57
+Numerical Method
+Error propagation study?
+Sensitivity
+0
+58
+Numerical Method
+Linear regression type?
+Least Squares
+0
+59
+Numerical Method
+Matrix multiplication order?
+Row-Column
+0
+60
+Numerical Method
+Numerical stability factor?
+Condition Number
+0
+61
+C++
+Output command?
+cout
+1
+62
+C++
+Input command?
+cin
+1
+63
+C++
+Loop types?
+for/while
+0
+64
+C++
+True/False type?
+bool
+1
+65
+C++
+Integer type?
+int
+1
+66
+C++
+Floating point type?
+float
+1
+67
+C++
+Conditional statement?
+if
+0
+68
+C++
+String class?
+string
+1
+69
+C++
+Array size function?
+size()
+0
+70
+C++
+Function return nothing?
+void
+0
+71
+C++
+Object-oriented feature?
+Class
+1
+72
+C++
+Access specifiers?
+public/private
+0
+73
+C++
+Constructor return type?
+None
+0
+74
+C++
+Inheritance types?
+Single/Multiple
+0
+75
+C++
+Exception handling?
+try/catch
+0
+76
+C++
+Pointer symbol?
+*
+0
+77
+C++
+Dynamic memory?
+new
+0
+78
+C++
+Namespace example?
+std
+0
+79
+C++
+Template keyword?
+template
+0
+80
+C++
+STL container?
+vector
+0
+81
+Networking
+Internet protocol?
+TCP/IP
+0
+82
+Networking
+Web protocol?
+HTTP
+0
+83
+Networking
+Secure web protocol?
+HTTPS
+0
+84
+Networking
+Device connects networks?
+Router
+0
+85
+Networking
+Local network name?
+LAN
+0
+86
+Networking
+Wireless network?
+WiFi
+0
+87
+Networking
+Domain name resolver?
+DNS
+0
+88
+Networking
+Network security system?
+Firewall
+0
+89
+Networking
+Unique device address?
+MAC
+0
+90
+Networking
+Data transfer unit?
+Packet
+0
+91
+Networking
+Email protocol?
+SMTP
+0
+92
+Networking
+File transfer protocol?
+FTP
+0
+93
+Networking
+Network topology?
+Star
+0
+94
+Networking
+IPv4 address format?
+32-bit
+0
+95
+Networking
+Loopback address?
+127.0.0.1
+0
+96
+Networking
+Network interface card?
+NIC
+0
+97
+Networking
+Cloud storage type?
+Cloud
+0
+98
+Networking
+VPN full form?
+Virtual Private Network
+0
+99
+Networking
+Network layer protocol?
+IP
+0
+100
+Networking
+Wireless encryption?
+WPA2
+0
+
